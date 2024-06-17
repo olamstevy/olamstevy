@@ -6,11 +6,11 @@
 - **Technologies:** Node.js, Express.js, SQL, MongoDB, Kivy, Tkinter, JWT, 
 
 
-My projects are available on my [porfolio](https://olamstevytech.netlify.app/porfolio). Please check them out.
+My projects are available on my [portfolio](https://olamstevytech.netlify.app/portfolio). Please check them out.
 
 
 ## Connect with Me
-- LinkedIn: [@olamstevy](https://linkedin.com/in/olamstevy)
+- LinkedIn: [Steve David @olamstevy](https://linkedin.com/in/olamstevy)
 
 Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/olamstevy) if you'd like to collaborate on projects or just want to connect!
 
