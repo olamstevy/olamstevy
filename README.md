@@ -5,7 +5,7 @@
 - **Programming Languages:** JAVASCRIPT, Python, PHP
 - **Technologies:** Node.js, Express.js, SQL, MongoDB, Kivy, Tkinter, JWT, 
 
-- My projects are available on my [porfolio](https://linkedin.com/in/yourusername). Please check them out.
+My projects are available on my [porfolio](https://linkedin.com/in/yourusername). Please check them out.
 
 ## Connect with Me
 - LinkedIn: [@olamstevy](https://linkedin.com/in/olamstevy)
