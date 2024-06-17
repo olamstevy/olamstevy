@@ -1,20 +1,14 @@
 # Hello, I'm Steve David! 👋
-
-## About Me
-I'm a software developer passionate about building web, mobile and desktop applications.
+- I'm a software developer who has a strong passion for the development of software and I'm willing to use my skills for great purposes. 
 
 ## Skills
-- **Programming Languages:** JAVASCRIPT, Python
-- **Technologies:** Node.js, Express.js, SQL, MongoDB, Kivy, Tkinter
+- **Programming Languages:** JAVASCRIPT, Python, PHP
+- **Technologies:** Node.js, Express.js, SQL, MongoDB, Kivy, Tkinter, JWT, 
 
-## My projects are available on my portfolio(https://olamstevytech.netlify.app/portfolio)
- 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- My projects are available on my [porfolio](https://linkedin.com/in/yourusername). Please check them out.
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn profile URL](https://linkedin.com/in/yourusername)
-- Twitter: [Your Twitter profile URL](https://twitter.com/yourusername)
+- LinkedIn: [@olamstevy](https://linkedin.com/in/olamstevy)
 
-Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/yourusername) if you'd like to collaborate on projects or just want to connect!
+Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/olamstevy) if you'd like to collaborate on projects or just want to connect!
 
